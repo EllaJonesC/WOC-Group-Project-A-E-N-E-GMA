@@ -9,13 +9,13 @@ Our team will work throughout the semester to analyze a WOC business problem and
 ## Team Members
 
 - Ella Jones
-- Team member
-- Team member
-- Team member
+- Amanda Fults
+- Ella Hulsebus
+- Noah Parazette
 
 ## Project Track
 
-To be determined.
+Track A
 
 ## Semester Project Work
 
@@ -30,4 +30,4 @@ This repository will contain work from the following six labs:
 
 ## Final Deliverable
 
-Our team will combine the work from the six labs into a final consulting recommendation and presentation.
+Our team recommend that WOC implements a new inventory software to replace the disjointed spreadsheet system they are currently using in order to streamline reservation processes, repairing equipment workflows, and mitigate customer dissatisfaction.
